@@ -1,0 +1,5 @@
+﻿  DiceRoll.cpp
+f:\bilitski\diceroll\diceroll\diceroll.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\bilitski\diceroll\diceroll\diceroll.cpp(56): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\bilitski\diceroll\diceroll\diceroll.cpp(60): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  DiceRoll.vcxproj -> F:\Bilitski\DiceRoll\Debug\DiceRoll.exe
